@@ -32,7 +32,7 @@ A high-performance, **Neural Network-based** Speech-to-Text (STT) engine that ru
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/STT.git
+git clone https://github.com/ShreyashDarade//STT.git
 cd STT
 ```
 
